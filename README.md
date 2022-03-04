@@ -11,3 +11,4 @@ ENTER YOUR CHOICE :
 
 /* User nedd to enter the entries as per requirement.*/
 
+![Code grade](https://api.codiga.io/project/31581/score/svg)
